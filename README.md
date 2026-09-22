@@ -37,4 +37,4 @@ Add screenshots here showing:
 3. Required 3-Star badge, if earned.
 
 ## GitHub
-Repository name: `HackerRank-3rdSem-Portfolio`
+Repository name: `Hacker_rank`
