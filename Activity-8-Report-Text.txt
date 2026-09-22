@@ -1,0 +1,26 @@
+ACTIVITY 8 – HACKERRANK ALGORITHMIC PROBLEM-SOLVING & PORTFOLIO INTEGRATION
+
+Student: Deshna Saanvi M
+Program: B.Tech Computer Science & Engineering, 3rd Semester
+
+HackerRank Profile:
+[PASTE YOUR PUBLIC HACKERRANK PROFILE URL]
+
+GitHub Repository:
+[PASTE YOUR GITHUB REPOSITORY URL]
+
+Problems Completed:
+1. Diagonal Difference – O(N) time, O(1) auxiliary space
+2. Dynamic Array – O(N + Q) expected overall work, O(N + Q) storage
+3. Time Conversion – O(1) time and O(1) auxiliary space
+4. Compare the Triplets – O(1) time and O(1) auxiliary space
+5. Sparse Arrays – O(N + Q) expected time using a hash map, O(N) storage
+
+REFLECTION
+
+This activity helped me understand how algorithm choice affects both execution time and memory usage. While solving Diagonal Difference, I learned that both diagonal sums can be calculated in one traversal instead of using separate passes. Dynamic Array introduced the use of vectors and the XOR operation to select sequences efficiently. Time Conversion strengthened my understanding of string indexing and conditional logic. Compare the Triplets showed how a simple fixed-size comparison can be implemented directly without unnecessary data structures. Sparse Arrays demonstrated the practical advantage of frequency mapping: storing each string count once avoids repeatedly scanning the complete input list for every query.
+
+A major optimization lesson was to avoid repeated work. When a problem asks many queries about the same data, preprocessing or frequency counting can reduce the amount of computation. I also practiced identifying complexity before writing code, which makes it easier to choose suitable data structures. These problems improved my confidence in writing concise C++ solutions and documenting their time and space requirements. Integrating the solutions into GitHub also showed me how coding practice can be organized into a portfolio that can be reviewed by others.
+
+BADGE / SUBMISSION EVIDENCE
+[INSERT HACKERRANK ACCEPTED-SUBMISSION SCREENSHOTS AND BADGE SCREENSHOT HERE]
